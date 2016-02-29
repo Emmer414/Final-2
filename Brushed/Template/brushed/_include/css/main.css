@@ -28,7 +28,7 @@ body{
 	background:#2F3238;
 	color:#FFFFFF;
 	font-weight:300;
-	font-size:20px;
+	font-size:62.5%;
 	font-family: 'Titillium Web', sans-serif;
 	line-height:28px;
 }
@@ -202,7 +202,7 @@ h4,
 h5,
 h6{
 	margin:0 0 20px 0;
-	color:#FFFFFF;
+	color:#ff6900;
 	font-weight:300;
 	font-family: 'Titillium Web', sans-serif;
 	line-height:1.5em;
@@ -654,20 +654,20 @@ nav#menu #menu-nav li a:hover {
    Section Page
 ================================================== */
 .page-2 {
-	background: #00008B;
+	background: url("https://farm2.staticflickr.com/1506/24735827943_73d98bee9d_m.jpg");
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
 }
 .page {
-	background: #3c3f45;
+	background: url("https://farm2.staticflickr.com/1682/25269563291_64e2875a11_m.jpg");
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
 }
 
 .page-alternate {
-	background: #00008B;
+	background: url("https://farm2.staticflickr.com/1506/24735827943_73d98bee9d_m.jpg");
 	padding: 100px 0;
 	position: relative;
 	z-index: 99;
@@ -1012,8 +1012,8 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit {
-    background: white;
-    color: #23262C;
+    background: #ff6900;
+    color: #00008b;
     cursor: pointer;
     display: inline-block;
     font-size: 18px;
